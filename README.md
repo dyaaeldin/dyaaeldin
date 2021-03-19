@@ -1,5 +1,5 @@
 - 👋 Dyaa-eldin Ahmed
-- 👀 Interested in doker, K8s, Openshift, Ansible, Terrform, Jenkins
+- 👀 Containerization, K8S, CI/CD , Configuration Management
 
 - 📫 dyaaeldinahmed@gmail.com
 
